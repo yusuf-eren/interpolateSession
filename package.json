@@ -1,0 +1,15 @@
+{
+  "name": "@mindbehind/code-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ugur Acikgoz",
+  "license": "ISC"
+}
